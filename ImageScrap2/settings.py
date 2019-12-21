@@ -90,3 +90,4 @@ IMAGES_STORE = 'E:\ScrapingImage2\src\ImageScrap2\ImageScrap2\images'
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+FEED_EXPORT_FIELDS=["ss","count"]
